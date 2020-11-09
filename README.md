@@ -1,2 +1,2 @@
-# CubeX_Vue.js
+# CubeX_Vue
 Created with CodeSandbox
